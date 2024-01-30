@@ -3,9 +3,9 @@ The script facilitates the retrieval and processing of KEGG orthology (KO IDs) d
 
 # Use
 1-Prepare a text file with a list of organism codes in the first column. Organism codes can be obtained from [here](https://www.genome.jp/kegg/catalog/org_list.html).
-Run the tool and provide the full path to the input file when prompted.
-The tool fetches and processes data for each code.
-Enter the desired path and the output file name. 
+2-Run the tool and provide the full path to the input file when prompted.
+3-The tool fetches and processes data for each code.
+4-Enter the desired path and the output file name. 
 
 # Output
 The output file includes a list of fetched "KOs" corresponding to the input organisms and can be used for downstream analysis. 
