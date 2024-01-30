@@ -2,7 +2,7 @@
 The script facilitates the retrieval and processing of KEGG orthology (KO IDs) data from the Kyoto Encyclopedia of Genes and Genomes (KEGG) database. It specifically targets data related to organism codes, which are unique identifiers for various organisms in the KEGG database. 
 
 # Installation
-The KO_extract.py script can be either copied or downloaded with 
+The KO_extract.py script can be either copied or downloaded with:     
 `wget https://raw.githubusercontent.com/hassantarabai/KO_extract/main/KO_extract.py`
 
 
