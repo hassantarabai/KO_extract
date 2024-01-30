@@ -6,7 +6,7 @@ The KO_extract.py script can be either copied or downloaded with (wget https://r
 
 # Use
 1-Prepare a text file with a list of organism codes in the first column. Organism codes can be obtained from [here](https://www.genome.jp/kegg/catalog/org_list.html).  
-2-Run the tool (python KO_extract.py)
+2-Run the tool (python KO_extract.py).  
 3-Povide the full path to the input file when prompted.    
 3-The tool fetches and processes KOs for each provdied organism code.  
 4-Enter the desired path and the output file name.     
