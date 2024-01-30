@@ -15,4 +15,4 @@ The KO_extract.py script can be either copied or downloaded with:
 5-Enter the desired path and the output file name.     
 
 # Output
-The output file includes a list of fetched "KOs" corresponding to the input organisms and can be used for downstream analysis. 
+The output file includes a list of fetched "KOs" corresponding to the input organisms. 
